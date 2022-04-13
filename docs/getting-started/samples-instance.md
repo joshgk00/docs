@@ -12,6 +12,10 @@ This page acts as a directory of features found in our samples instance.
 We're constantly adding to our samples instance. If you'd like to explore any of our samples further, just go to [https://samples.octopus.app](https://samples.octopus.app) and log in as a guest.
 :::
 
+<h2>On this page</h2>
+
+!toc
+
 ## Deployment features {#deployment-features}
 
 This section contains Octopus features that are found in Project [deployment processes](/docs/projects/deployment-process/index.md) in the samples instance. Each feature list is categorized by the Octopus Space and Project in which it can be found.
